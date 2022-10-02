@@ -1,5 +1,5 @@
-**1. Business understanding**
-- **Gathered background information**
+## **1. Business understanding**
+**Gathered background information**
 - Compiling the business background
 - this project is about historical weather around Szeged, Hungary , from 2006 to 2016
 **Defining business objectives**
@@ -11,7 +11,7 @@
 **Objective of the project**
 - The objective of this project is to analyze the weather data and extract the hypotheses to arrive at a prediction
  
-**2. Collected initial data**
+## **2. Collected initial data**
 - Dataset from Kaggle : https://www.kaggle.com/budincsevity/szeged-weather
-- **Data Exploration**
+**Data Exploration**
 - Exploration is to understand how all these columns are related and the value structures so the correlation between these data
