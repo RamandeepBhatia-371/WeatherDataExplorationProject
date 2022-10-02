@@ -1,7 +1,7 @@
 ## **1. Business understanding**
 **Gathered background information**
-- Compiling the business background
-- this project is about historical weather around Szeged, Hungary , from 2006 to 2016
+- Compiled the business background
+- This project is about historical weather around Szeged, Hungary , from 2006 to 2016
 
 **Defining business objectives**
 - Made data more accessible and understandable for everyone.
