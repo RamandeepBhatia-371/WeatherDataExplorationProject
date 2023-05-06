@@ -1,4 +1,4 @@
-## **1. Business understanding**
+## **1.Business understanding**
 **Gathered background information**
 - Compiled the business background
 - This project is about historical weather around Szeged, Hungary , from 2006 to 2016
